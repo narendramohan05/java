@@ -10,7 +10,10 @@ class nithish
             int a = nit.nextInt();
             System.out.print("Enter a number b : ");
 
-            int b = nit.nextInt();
+            int b = nit.nextInt(); 
+             
+
+
             System.out.println(a==b);
             
         }
