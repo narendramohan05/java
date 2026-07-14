@@ -4,7 +4,7 @@ import java.util.Scanner;
 class mohan{
     public static void main(String[]arg){
       Scanner M = new Scanner(System.in);
-    System.out.print("Enter your age : ");
+    System.out.println("Enter your age : ");
 
       int age = M.nextInt();
       if( age >= 18)
