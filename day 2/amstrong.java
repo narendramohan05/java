@@ -1,8 +1,7 @@
 public class amstrong {
-    Public static void main(String[] arg)
+    public static void main(String[] arg)
     {   
         
-
 
 
 
