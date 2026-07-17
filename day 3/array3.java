@@ -12,10 +12,12 @@ class array3{
         for(int i =0;i<n;i++){
             System.out.println("The element of "+i+ " " +b[i]);
         }System.out.println(" ");
-       for(int i =0;i<b.length;i++){
+       for(int i =0;i<n;i++){
+        System.out.println("the value of "+a);
+
           a+=b[i];
-        System.out.println("The sum of array is "+ a);
-       }
+        
+       }System.out.println("The sum of array is "+ a);
 
     }
     

@@ -9,7 +9,7 @@ public class array10 {
         System.out.print("give the number of coloum in the array : ");
         int b =sc.nextInt();
         int [][] arr=new int[a][b];
-        for(int i =0;i<b;i++){
+        for(int i =0;i<a;i++){
             for(int j=0;j<b;j++){
 
                 System.out.print("enter the element shoul be present in the row "+i+" and coloum "+j+" : ");
