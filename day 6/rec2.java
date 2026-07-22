@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class rec2 {
-    static int fibanacci(int n){
+    static long  fibanacci(long n){
         if(n==0)
         {
             return 0;
@@ -14,7 +14,7 @@ public class rec2 {
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        int b=sc.nextInt();
+        long b=sc.nextInt();
         for(int i=0;i<b;i++){
         System.out.println(fibanacci(i));}
     }
