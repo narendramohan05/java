@@ -20,8 +20,6 @@ public class array10 {
         for(int i=0;i<a;i++){
             for(int j=0;j<b;j++){
                 System.out.print(arr[i][j]+ " ");
-
-
             }
             System.out.println(" ");
             }
