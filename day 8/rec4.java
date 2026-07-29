@@ -5,7 +5,7 @@ public class rec4 {
 
         }
         return n*rec4(n-1);
-        
+        n=Integer.MIN_VALUE;
     }
     
     public static void main(String[] args) {
