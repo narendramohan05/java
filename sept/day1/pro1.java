@@ -16,8 +16,6 @@ public class pro1 {
 
         }
 
-
-
     }
     
 }
